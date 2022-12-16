@@ -30,7 +30,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 
 ### Setup
 
-- Tambahkan bot ke Saluran Basis Data dengan semua izin
+- Tambahkan bot ke Saluran Database channel dengan semua izin
 - Tambahkan bot ke saluran ForceSub sebagai Admin dengan Undang Pengguna melalui Izin Tautan jika Anda mengaktifkan ForceSub
 
 ##
