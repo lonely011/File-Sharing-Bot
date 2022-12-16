@@ -43,7 +43,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 git clone https://github.com/lonely01/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
-# <Create config.py appropriately>
+# <Create config.py>
 python3 main.py
 ````
 
