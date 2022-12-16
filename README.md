@@ -36,7 +36,6 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-**SEBELUM ANDA MENYEBARKAN PADA HEROKU, ANDA HARUS MEMBUAT REPO DAN MENGUBAH NAMANYA KE LAINNYA**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 #### Deploy in your VPS
