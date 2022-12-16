@@ -11,32 +11,32 @@
 </p>
 
 
-Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.....😇. 
+Bot Telegram untuk menyimpan Posting dan Dokumen dan dapat diakses dengan Tautan Khusus.
+Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇. 
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**Jika Anda membutuhkan lebih banyak mode di repo atau Jika Anda menemukan bug, sebutkan [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
 
-**Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
+**Pastikan untuk melihat [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) untuk instruksi tentang berkontribusi pada proyek!**
 
 
 
 ### Features
-- Fully customisable.
-- Customisable welcome & Forcesub messages.
-- More than one Posts in One Link.
-- Can be deployed on heroku directly.
+- Sepenuhnya dapat disesuaikan.
+- Pesan selamat datang & Forcesub yang dapat disesuaikan.
+- Lebih dari satu Posting dalam Satu Tautan.
+- Dapat digunakan di heroku secara langsung.
 
 ### Setup
 
-- Add the bot to Database Channel with all permission
-- Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
+- Tambahkan bot ke Saluran Basis Data dengan semua izin
+- Tambahkan bot ke saluran ForceSub sebagai Admin dengan Undang Pengguna melalui Izin Tautan jika Anda mengaktifkan ForceSub
 
 ##
 ### Installation
 #### Deploy on Heroku
-**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+**SEBELUM ANDA MENYEBARKAN PADA HEROKU, ANDA HARUS MEMBUAT REPO DAN MENGUBAH NAMANYA KE LAINNYA**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 #### Deploy in your VPS
@@ -105,8 +105,6 @@ python3 main.py
 
 * `{uptime}` - Bot Uptime
 
-Report Bugs, Give Feature Requests There..   
-
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
@@ -121,7 +119,9 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
+# Kanger by
+* [LONELY](https://github.com/lonely011)
 ##
 
-   **Star this Repo if you Liked it ⭐⭐⭐**
+   **Bintangi Repo ini jika Anda Menyukainya ⭐⭐⭐**
 
